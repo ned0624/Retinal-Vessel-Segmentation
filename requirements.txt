@@ -1,0 +1,10 @@
+torch>=1.12.0
+torchvision>=0.13.0
+opencv-python>=4.6.0
+Pillow>=9.0.0
+imageio>=2.19.0
+tifffile>=2022.5.4
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+numpy>=1.22.0
+pandas>=1.4.0
